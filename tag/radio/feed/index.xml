@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Radio &#8211; Cut The Cord</title>
+	<atom:link href="/tag/radio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Jan 2019 22:17:30 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Cut The Cord On Air</title>
+		<link>/2013/12/cut-the-cord-on-air/</link>
+		
+		<dc:creator><![CDATA[fr]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2013 12:55:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Mütze]]></category>
+		<category><![CDATA[Nikolaus]]></category>
+		<category><![CDATA[OnAir]]></category>
+		<category><![CDATA[Paderborn]]></category>
+		<category><![CDATA[Radio]]></category>
+		<guid isPermaLink="false">/?p=470</guid>
+
+					<description><![CDATA[Am letzten Donnerstag waren wir zum ersten Mal im Radio zu hören. Jan und Martin saßen zusammen mit dem Moderatorinnen Duo Jenny und Maria im Studio von L&#8217;UniCo und wurden dort knapp 15 Minuten zu verschiedenen Themen interviewt. Für die &#8230; <a href="/2013/12/cut-the-cord-on-air/">Weiterlesen <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Am letzten Donnerstag waren wir zum ersten Mal im Radio zu hören. Jan und Martin saßen zusammen mit dem Moderatorinnen Duo Jenny und Maria im Studio von <a href="http://www.l-unico.de/" target="_blank">L&#8217;UniCo</a> und wurden dort knapp 15 Minuten zu verschiedenen Themen interviewt. Für die Sendung <a href="http://groups.uni-paderborn.de/radicalaudiopool/index.php" target="_blank"><em>radical on air</em></a> wurden auch zwei Tracks aus unseren bochumern Live-Mitschnitten gespielt. Highlight des Abends war aber das Nikolausgeschenk für die Moderatorinnen: Zwei <strong>Cut The Cord</strong> Ohrenwärmer – Frisch aus unseren neuen Merch!</p>
+<p>&nbsp;</p>
+<p>Wer die Sendung verpasst oder leider zu spät davon erfahren hat, kann sich den Auschnitt gerne herunterladen und anhören: <a href="http://files.cutthecord.de/pub/2013-12-05_ctc-radicalonair.mp3" target="_blank">2013-12-05_ctc-radicalonair.mp3</a></p>
+<p>&nbsp;</p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2013/12/ctc-onair-122013-2_n.jpg"><img class="alignnone size-medium wp-image-468" alt="ctc-onair-122013-2_n" src="/wp-content/uploads/2013/12/ctc-onair-122013-2_n-300x170.jpg" width="300" height="170" srcset="/wp-content/uploads/2013/12/ctc-onair-122013-2_n-300x170.jpg 300w, /wp-content/uploads/2013/12/ctc-onair-122013-2_n-500x284.jpg 500w, /wp-content/uploads/2013/12/ctc-onair-122013-2_n.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: left;"><span style="color: #333333;"><em>&#8222;Nie wieder ein kaltes Ohr – Dank Mützen von Cut The Cord&#8220;</em></span></p>
+<p style="text-align: left;"><a href="/wp-content/uploads/2013/12/ctc-onair-122013-1_n.jpg"><img class="alignnone size-medium wp-image-469" alt="ctc-onair-122013-1_n" src="/wp-content/uploads/2013/12/ctc-onair-122013-1_n-300x174.jpg" width="300" height="174" srcset="/wp-content/uploads/2013/12/ctc-onair-122013-1_n-300x174.jpg 300w, /wp-content/uploads/2013/12/ctc-onair-122013-1_n-500x291.jpg 500w, /wp-content/uploads/2013/12/ctc-onair-122013-1_n.jpg 1000w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+]]></content:encoded>
+					
+		
+		<enclosure url="http://files.cutthecord.de/pub/2013-12-05_ctc-radicalonair.mp3" length="14760483" type="audio/mpeg" />
+
+			</item>
+	</channel>
+</rss>

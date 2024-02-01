@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Konzert &#8211; Cut The Cord</title>
+	<atom:link href="/tag/konzert/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Jan 2019 22:17:29 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Ticket-Vorverkauf Fernsehkonzert</title>
+		<link>/2015/05/ticket-vorverkauf-fernsehkonzert/</link>
+		
+		<dc:creator><![CDATA[fr]]></dc:creator>
+		<pubDate>Thu, 07 May 2015 13:57:49 +0000</pubDate>
+				<category><![CDATA[Live]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Konzert]]></category>
+		<category><![CDATA[TV]]></category>
+		<category><![CDATA[VVK]]></category>
+		<guid isPermaLink="false">/?p=642</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<center><div id="fb-root"></div>
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<fb:post href="https://www.facebook.com/cutthecordband/photos/a.455491134497887.104306.453504758029858/880299465350383"></fb:post></center>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

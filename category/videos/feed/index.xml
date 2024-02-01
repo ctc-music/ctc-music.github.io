@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Videos &#8211; Cut The Cord</title>
+	<atom:link href="/category/videos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Jan 2019 22:17:30 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Kanal-21.tv Fernsehkonzert</title>
+		<link>/2015/08/kanal-21-tv-fernsehkonzert/</link>
+		
+		<dc:creator><![CDATA[fr]]></dc:creator>
+		<pubDate>Tue, 25 Aug 2015 11:25:50 +0000</pubDate>
+				<category><![CDATA[Live]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Bielefeld]]></category>
+		<category><![CDATA[Fernsehkonzert]]></category>
+		<category><![CDATA[Interview]]></category>
+		<category><![CDATA[TV]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">/?p=671</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<center><div id="fb-root"></div>
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/de_DE/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+<fb:post href="https://www.facebook.com/cutthecordband/posts/938072302906432"></fb:post></center>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Neue Website, neues Live-Video</title>
+		<link>/2013/08/neue-website-neues-live-video/</link>
+		
+		<dc:creator><![CDATA[jt]]></dc:creator>
+		<pubDate>Sun, 25 Aug 2013 18:42:16 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Bochum]]></category>
+		<category><![CDATA[Danke]]></category>
+		<category><![CDATA[Emergenza]]></category>
+		<category><![CDATA[Homepage]]></category>
+		<category><![CDATA[Video]]></category>
+		<guid isPermaLink="false">https://cutthecord.de/?p=349</guid>
+
+					<description><![CDATA[Hallo liebe Leute Nun ist es endlich soweit! Wir haben das Video Material aus Bochum vom Emergenza-Ruhrpott-Finale für euch zu einem Video zusammengeschnitten. Jetzt könnnen Alle nochmal Revue passieren lassen, auch die, die vielleicht nicht dabei sein konnten. &#160; Als &#8230; <a href="/2013/08/neue-website-neues-live-video/">Weiterlesen <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Hallo liebe Leute</strong></p>
+<p>Nun ist es endlich soweit!<br />
+Wir haben das Video Material aus Bochum vom Emergenza-Ruhrpott-Finale für euch zu einem Video zusammengeschnitten.<br />
+Jetzt könnnen Alle nochmal Revue passieren lassen, auch die, die vielleicht nicht dabei sein konnten.<br />
+&nbsp;<br />
+Als wäre das noch nicht genug, könnt Ihr uns jetzt auch auf unserer neu gestalteten Website folgen.<br />
+&nbsp;<br />
+Kurz gesagt:<br />
+Checkt die neuen Sachen aus,<br />
+teilt uns Eure Meinung in Kommentaren und Likes mit,<br />
+verteilt es an Eure Freunde und Alle die es noch nicht kennen.<br />
+&nbsp;<br />
+Wir sagen an dieser Stelle schon einmal Danke für Euren Support!<br />
+&nbsp;<br />
+Stay tuned (MJ/JT)<br />
+&nbsp;<br />
+<iframe width="680" height="383" src="http://www.youtube.com/embed/mxzSbXezK6E?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

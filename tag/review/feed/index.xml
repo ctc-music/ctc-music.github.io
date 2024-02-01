@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Review &#8211; Cut The Cord</title>
+	<atom:link href="/tag/review/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 01 Jan 2019 22:17:30 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4</generator>
+	<item>
+		<title>Dritter Platz in Bochum</title>
+		<link>/2013/05/dritter-platz-in-bochum/</link>
+		
+		<dc:creator><![CDATA[fr]]></dc:creator>
+		<pubDate>Fri, 31 May 2013 11:00:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Bochum]]></category>
+		<category><![CDATA[Danke]]></category>
+		<category><![CDATA[Emergenza]]></category>
+		<category><![CDATA[Live]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://cutthecord.de/?p=64</guid>
+
+					<description><![CDATA[Platz Drei im Ruhrpott-Finale &#8211; Vielen vielen Dank an alle, die uns dabei geholfen haben. Gebt einfach einen Riesenapplaus für jeden, der gestern mit uns die Zeche Bochum gefeiert hat, für alle Unterstützer und Sponsoren, für die Organisatoren, für Emergenza, für &#8230; <a href="/2013/05/dritter-platz-in-bochum/">Weiterlesen <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Platz Drei im Ruhrpott-Finale &#8211; Vielen vielen Dank an alle, die uns dabei geholfen haben. Gebt einfach einen Riesenapplaus für jeden, der gestern mit uns die Zeche Bochum gefeiert hat, für alle Unterstützer und Sponsoren, für die Organisatoren, für Emergenza, für alle anderen Bands und die Siegerband Blizzard. Ihr alle seid klasse und wir hoffen, dass euer Abend mindestens so gut war wie unser und dass ihr Spaß mit den Busbetreuern hattet! Wir verneigen uns vor euch &#8211; Stay tuned, ihr werdet von uns hören!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

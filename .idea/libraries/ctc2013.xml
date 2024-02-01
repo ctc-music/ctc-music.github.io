@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ctc2013">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/media/press/ctc2013.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
